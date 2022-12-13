@@ -69,12 +69,12 @@ section {
 
 .header {
     padding-top: 60px;
-    margin: 0 auto;
 }
 
 .introtext {
     font-size: 18px;
     margin: 30px 0px;
+    width: 400px;
 }
 
 .offer-wrapper {
